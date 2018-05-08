@@ -1,0 +1,9 @@
+*.exe
+*.test
+*.prof
+/.DS_Store
+vendor/.DS_Store
+/p*
+/.idea/*
+/logs
+/target
